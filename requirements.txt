@@ -9,3 +9,5 @@ sentence-transformers
 pypdf
 python-dotenv
 pymupdf
+langchain-huggingface
+sentence-transformers
