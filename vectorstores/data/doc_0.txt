@@ -1,0 +1,7 @@
+
+   Sri is a passionate and highly motivated learner who is actively transitioning into the fields of Machine Learning, Deep Learning, and Generative AI. 
+   With a strong curiosity about how intelligent systems function, Sri is focused on building 
+   solid practical foundations in AI, including Python programming, data structures, model training, and deployment workflows. Instead of limiting learning to theory, Sri
+     strongly prefers a hands-on, project-based approach, using tools such as Google Colab, Python libraries, and real-world datasets to gain deeper understanding. 
+     This approach helps translate abstract concepts into real implementations, especially in areas like regression, classification, and neural networks.
+    

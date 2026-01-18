@@ -1,0 +1,6 @@
+
+Sri has a growing interest in AI-driven healthcare solutions, particularly in cancer detection using MRI and medical imaging.
+ This interest has led to working on literature surveys, studying CNN architectures, and exploring how image processing techniques can support early and accurate diagnosis. 
+ At the same time, Sri is actively learning about Retrieval-Augmented Generation (RAG) systems, vector databases, embeddings, and modern AI frameworks like LangChain. 
+ A key focus is understanding how documents are split, embedded, stored, and retrieved, enabling intelligent systems to reason over custom knowledge bases rather 
+ than relying solely on pretrained model knowledge.

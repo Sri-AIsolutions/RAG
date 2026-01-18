@@ -1,0 +1,7 @@
+
+Beyond traditional ML and DL, Sri enjoys exploring emerging technologies such as Generative AI, Agentic AI, chatbots, and multimodal systems. 
+There is a strong ambition to build end-to-end AI systems, starting from raw data ingestion, moving through embeddings and vector search, and 
+ultimately generating meaningful, context-aware responses using large language models. Sri is detail-oriented and
+ values updated, correct, and production-ready code, especially when working with fast-evolving libraries. 
+ With consistent effort, curiosity, and a strong preference for learning by doing, Sri is steadily developing the skills required to become a high-impact, 
+ highly-paid machine learning engineer.
