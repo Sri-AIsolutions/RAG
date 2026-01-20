@@ -12,3 +12,7 @@ pymupdf
 langchain-huggingface
 sentence-transformers
 
+
+
+langchain-classic
+langchain-chroma
